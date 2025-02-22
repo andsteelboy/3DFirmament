@@ -1,0 +1,9 @@
+﻿main.obj : error LNK2019: symbole externe non résolu glfwInit référencé dans la fonction main
+main.obj : error LNK2019: symbole externe non résolu glfwTerminate référencé dans la fonction main
+main.obj : error LNK2019: symbole externe non résolu glfwCreateWindow référencé dans la fonction main
+main.obj : error LNK2019: symbole externe non résolu glfwWindowShouldClose référencé dans la fonction main
+main.obj : error LNK2019: symbole externe non résolu glfwPollEvents référencé dans la fonction main
+main.obj : error LNK2019: symbole externe non résolu glfwMakeContextCurrent référencé dans la fonction main
+main.obj : error LNK2019: symbole externe non résolu glfwSwapBuffers référencé dans la fonction main
+C:\3DFirmament\3DFirmanent\3DFirmanent\Dependencies\glfw3.lib : warning LNK4272: type d'ordinateur bibliothèque 'x86' en conflit avec le type d'ordinateur cible 'x64'
+C:\3DFirmament\3DFirmanent\x64\Debug\3DFirmanent.exe : fatal error LNK1120: 7 externes non résolus
